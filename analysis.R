@@ -1,3 +1,5 @@
+### Multiple trials-and-error with all possible features that could be gathered to get an idea of loan volume segmentation! ###
+
 ## Exploratory analysis of cleaned data to understand relationship b/w borrower features
 ## like education, marital status, income, location and others on loan characteristics
 
