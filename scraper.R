@@ -1,4 +1,6 @@
-#### Get Chinese script compatibility for the R Code to prevent special character replacement
+### Gather publicly available data from Yirendai's website; to be cleaned, translated and processed further for generating insights ###
+
+## Get Chinese script compatibility for the R Code to prevent special character replacement
 # oldloc <- Sys.getlocale("LC_CTYPE")
 # Sys.setlocale("LC_CTYPE", locale="Chinese")
 ## Note to self: Set to "English_United States.1252" when done!
