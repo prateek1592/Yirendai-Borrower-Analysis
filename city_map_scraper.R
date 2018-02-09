@@ -1,3 +1,5 @@
+### Obtaining crucial information regarding Chinese cities, their GDP per capita, Tier classification, and demographics ###
+
 library(rvest)
 library(dplyr)
 url <- "http://multimedia.scmp.com/2016/cities/"
