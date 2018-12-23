@@ -36,7 +36,7 @@ for (n in seq_num){
   out_list[[as.character(n)]] <- mat
   print (paste("Done for", n))
   count <- count + 1
-  Sys.sleep(0.05)
+  Sys.sleep(0.05)     # To not bombard the webpage with requests
 }
 
 # Mild post-processing and output of data
